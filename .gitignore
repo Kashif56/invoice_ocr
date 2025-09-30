@@ -42,3 +42,5 @@ Thumbs.db
 # Keep invoices folder but ignore its contents except .gitkeep
 invoices/*
 !invoices/.gitkeep
+
+.~lock
